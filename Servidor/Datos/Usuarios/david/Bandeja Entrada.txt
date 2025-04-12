@@ -1,0 +1,12 @@
+0,1,AGREGACIÓN,NO,Nuevo show disponible. No te lo pierdas!!,NO RECLAMABLE
+2,1,AGREGACIÓN,NO,Nuevo show disponible. No te lo pierdas!!,NO RECLAMABLE
+3,1,ELIMINACIÓN,SI,La función fue cancelada por un error imprevisto,RECLAMADO
+4,1,ELIMINACIÓN,SI,La función fue cancelada por un error imprevisto,SIN RECLAMAR
+5,1,AGREGACIÓN,NO,Nuevo show disponible. No te lo pierdas!!,NO RECLAMABLE
+6,aaaaaaaaaaaa,ELIMINACIÓN,SI,La función fue cancelada por un error imprevisto,RECLAMADO
+7,1,AGREGACIÓN,NO,Nuevo show disponible. No te lo pierdas!!,NO RECLAMABLE
+8,2,AGREGACIÓN,NO,Nuevo show disponible. No te lo pierdas!!,NO RECLAMABLE
+9,3,AGREGACIÓN,NO,Nuevo show disponible. No te lo pierdas!!,NO RECLAMABLE
+10,4,AGREGACIÓN,NO,Nuevo show disponible. No te lo pierdas!!,NO RECLAMABLE
+11,asdfasdffasdff,ELIMINACIÓN,SI,La función fue cancelada por un error imprevisto,RECLAMADO
+12,5,AGREGACIÓN,NO,Nuevo show disponible. No te lo pierdas!!,NO RECLAMABLE
